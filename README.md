@@ -1,4 +1,4 @@
- # **Nice to meet you, I'm Alina Khannikova**
+ # *Nice to meet you, I'm Alina Khannikova*
  
  ## **About me**
  
